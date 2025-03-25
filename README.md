@@ -24,3 +24,5 @@ Uses a heap-based greedy approach to remove the least profitable transactions.
 
 Time Complexity Analysis - O(nlogn)
 This Problem is from #leetcode( DP )
+![image](https://github.com/user-attachments/assets/5ab46747-4843-4e7b-a4a7-a358fe5ba981)
+
