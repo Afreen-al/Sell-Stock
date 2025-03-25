@@ -1,4 +1,5 @@
-# Sell-Stock
+# Sell-Stock  ![image](https://github.com/user-attachments/assets/7cca53a1-6bcb-4375-a625-935b3565da3e)
+
 This Python program is an implementation of the "Best Time to Buy and Sell Stock " problem, where we are given an array prices representing stock prices on different days and an integer k representing the maximum number of transactions allowed. The goal is to maximize the profit by making at most k buy-sell transactions.
 
 Breakdown of the Code -
@@ -24,5 +25,5 @@ Uses a heap-based greedy approach to remove the least profitable transactions.
 
 Time Complexity Analysis - O(nlogn)
 This Problem is from #leetcode( DP )
-![image](https://github.com/user-attachments/assets/5ab46747-4843-4e7b-a4a7-a358fe5ba981)
+
 
