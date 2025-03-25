@@ -1,4 +1,4 @@
-# Sell-Stock  ![image](https://github.com/user-attachments/assets/7cca53a1-6bcb-4375-a625-935b3565da3e)
+# Sell-Stock  
 
 This Python program is an implementation of the "Best Time to Buy and Sell Stock " problem, where we are given an array prices representing stock prices on different days and an integer k representing the maximum number of transactions allowed. The goal is to maximize the profit by making at most k buy-sell transactions.
 
